@@ -13,6 +13,7 @@
 		C9D37322235997B30043CAD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9D37321235997B30043CAD5 /* Assets.xcassets */; };
 		C9D37325235997B30043CAD5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9D37324235997B30043CAD5 /* Preview Assets.xcassets */; };
 		C9D37328235997B30043CAD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9D37326235997B30043CAD5 /* LaunchScreen.storyboard */; };
+		C9D37330235997F60043CAD5 /* SheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9D3732F235997F60043CAD5 /* SheetView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C9D37324235997B30043CAD5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C9D37327235997B30043CAD5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9D37329235997B30043CAD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9D3732F235997F60043CAD5 /* SheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C9D3731B235997AF0043CAD5 /* AppDelegate.swift */,
 				C9D3731D235997AF0043CAD5 /* SceneDelegate.swift */,
 				C9D3731F235997AF0043CAD5 /* ContentView.swift */,
+				C9D3732F235997F60043CAD5 /* SheetView.swift */,
 				C9D37321235997B30043CAD5 /* Assets.xcassets */,
 				C9D37326235997B30043CAD5 /* LaunchScreen.storyboard */,
 				C9D37329235997B30043CAD5 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				C9D3731C235997AF0043CAD5 /* AppDelegate.swift in Sources */,
 				C9D3731E235997AF0043CAD5 /* SceneDelegate.swift in Sources */,
+				C9D37330235997F60043CAD5 /* SheetView.swift in Sources */,
 				C9D37320235997AF0043CAD5 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
